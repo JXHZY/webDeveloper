@@ -1,0 +1,13 @@
+upload.php
+	对应		doAction1.php(客户端设置限制--没封装的)
+			doAction2.php(服务器端设置限制--没封装的)
+			doAction3.php(服务器端设置限制--封装的--)-->singleFileUpload.php
+uploadmultiple1.php
+	对应
+			doAction4.php(服务器端设置限制--封装的--多文件--用不同的filename“name="myFile1"”)-->singleFileUpload.php
+uploadmultiple2.php
+	对应
+			doAction5.php(服务器端设置限制--封装的--多文件--用不同的filename“name="myFile1"”)-->uploadFile.php
+uploadClass.php
+	对应
+			doAction6.php(面向对象--Class)-->upload.class.php
