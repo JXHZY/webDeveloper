@@ -1,0 +1,78 @@
+{"name":"General","level":"1","id":"1","sublist":[
+	{"name":"Spices and Herbs","level":"2","id":"11","sublist":[
+		{"name":"Onion powder Onion (minced) '\r\n' Onion powder toasted '\r\n' Basil Chives '\r\n' Savoury '\r\n' Cayenne pepper '\r\n' Lemon balm '\r\n' Dill '\r\\n' Tarragon '\r\n' Mace '\r\n' Ginger '\r\n' Harissa '\r\n' Juniper berry '\r\n' Cinnamon '\r\n' Cardamom '\r\n' Caraway '\r\n' Curry '\r\n' Chervil '\r\n' Cumin seed '\r\n' Coriander '\r\n' Clove (whole) '\r\n' Clove (ground) '\r\n' Curcuma '\r\n' Bay leaves '\r\n' Bay leaves (ground) '\r\n' Garlic powder '\r\n' Marjoram leaves '\r\n' Marjoram (ground) '\r\n' Mustard seed '\r\n' Mustard seed (ground) '\r\n' Nutmeg (whole) '\r\n' Nutmeg (ground) '\r\n' Oregano '\r\n' Paprika '\r\n' Black and white ground pepper '\r\n' Whole black and white pepper '\r\n' Green pepper '\r\n' Parsley '\r\n' Pili-pili (ground) '\r\n' Pili-pili peulen '\r\n' Pistachio kernels '\r\n' Rosemary '\r\n' Sage '\r\n' Celery '\r\n' Thyme '\r\n' Thyme ground '\r\n' Fennel ground '\r\n' Fennel seed", "id":"111","sublist":""}
+	]},
+    {"name":"Decoratives, additives, mixes","level":"2","id":"12","sublist":[
+    	{"name":"Decoratives","level":"3","id":"121","sublist":[
+    		{"name":"Bread crumbs","level":"4","id":"1211","sublist":[
+    			{"name":"Bread","level":"5","id":"12111","sublist":""},
+    			{"name":"White","level":"5","id":"12112","sublist":""},
+    			{"name":"Yellow","level":"5","id":"12113","sublist":""},
+    			{"name":"Red","level":"5","id":"12114","sublist":""},
+    			{"name":"Extra Red","level":"5","id":"12115","sublist":""},
+    		]},
+    		{"name":"Spice bread crumbs","level":"4","id":"1212","sublist":[
+    			{"name":"Balkan","level":"5","id":"12121","sublist":""},
+    			{"name":"Spicy pork chops","level":"5","id":"12122","sublist":""},
+    			{"name":"Hawaii","level":"5","id":"12123","sublist":""},
+    			{"name":"Hungarian","level":"5","id":"12124","sublist":""},
+    			{"name":"Prager","level":"5","id":"12125","sublist":""},
+    			{"name":"SchnitzelBurger yellow green","level":"5","id":"12126","sublist":""},
+    			{"name":"Burger orange","level":"5","id":"12127","sublist":""},
+    			{"name":"Sesame burger","level":"5","id":"12128","sublist":""},
+    			{"name":"Spicy fish crumbs","level":"5","id":"12129","sublist":""},
+    		]},
+    		{"name":"Toppings","level":"4","id":"1213","sublist":""},
+    		{"name":"Herb coatings","level":"4","id":"1214","sublist":[
+    			{"name":"Bahamas","level":"5","id":"12141","sublist":""},
+    			{"name":"Bali","level":"5","id":"12142","sublist":""},
+    			{"name":"Havana","level":"5","id":"12143","sublist":""},
+    		]},
+    	]}
+    ]},
+]},
+{"name":"Fish","level":"1","id":"2","sublist":[
+	{"name":"Marinades","level":"2","id":"21","sublist":[
+		{"name":"Oil marinades","level":"3","id":"211","sublist":[
+			{"name":"Saumoniere","level":"4","id":"2111","sublist":""},
+			{"name":"Jardiniere","level":"4","id":"2112","sublist":""},
+			{"name":"Gyros","level":"4","id":"2113","sublist":""},
+			{"name":"Oriental","level":"4","id":"2114","sublist":""},
+			{"name":"Provencal","level":"4","id":"2115","sublist":""},
+			{"name":"Scampi marinade","level":"4","id":"2116","sublist":""},
+			{"name":"Venitienne","level":"4","id":"2117","sublist":""},
+			{"name":"Mariniere","level":"4","id":"2118","sublist":""},
+		]},
+		{"name":"Dry marinades","level":"3","id":"212","sublist":[
+			{"name":"Braai","level":"4","id":"2121","sublist":""},
+			{"name":"Brisbane","level":"4","id":"2122","sublist":""},
+			{"name":"Thai","level":"4","id":"2123","sublist":""},
+			{"name":"Red Moon","level":"4","id":"2124","sublist":""},
+			{"name":"Sydney","level":"4","id":"2125","sublist":""},
+			{"name":"Tikka","level":"4","id":"2126","sublist":""},
+		]}
+	]},
+	{"name":"Specialities","level":"2","id":"22","sublist":""},
+]},
+{"name":"Meat","level":"1","id":"3","sublist":[
+	{"name":"Meat loafs","level":"2","id":"31","sublist":[
+		{"name":"Frikandon mix","level":"3","id":"311","sublist":""},
+		{"name":"Meat loaf mix","level":"3","id":"312","sublist":""},
+		{"name":"Fikandon special","level":"3","id":"313","sublist":""},
+		{"name":"Meat loaf spices","level":"3","id":"314","sublist":""}
+	]},
+	{"name":"Cooked sausages","level":"2","id":"32","sublist":[
+		{"name":"Seasonings","level":"3","id":"321","sublist":[
+			{"name":"Champignon sausage spices","level":"4","id":"3211","sublist":""},
+			{"name":"Frankfurter spices","level":"4","id":"3212","sublist":""},
+			{"name":"Ham sausage spices","level":"4","id":"3213","sublist":""},
+			{"name":"White pudding spices","level":"4","id":"3214","sublist":""}
+		]},
+		{"name":"Mixes","level":"3","id":"322","sublist":[
+			{"name":"Ham sausage mix","level":"4","id":"3221","sublist":""},
+			{"name":"Veal sausage mix","level":"4","id":"3222","sublist":""},
+			{"name":"Horse meat mix","level":"4","id":"3223","sublist":""},
+			{"name":"White pudding mix","level":"4","id":"3224","sublist":""}
+		]},
+	]},
+]},
