@@ -1,0 +1,2 @@
+Redesign the ProductFinder app to pull information only when needed. For
+instance on document load pull only first level. On click of a category, pull information for that category and display in the second category. Use PHP for the server-side code
