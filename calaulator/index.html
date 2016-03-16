@@ -1,0 +1,57 @@
+<!--Calaulator @YingZhou 03/14/2016-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0093)http://media.mediatemple.netdna-cdn.com/wp-content/uploads/images/type-layouts/t20/index.html -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Calaulator</title>
+
+      <!-- Bootstrap -->
+      <!-- Latest compiled and minified CSS -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+      <link rel="stylesheet" href="calaulator.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+      <script type="text/javascript" src="calaultor.js"></script>
+  </head>
+  <body>
+    <table border="2" width="400px" height="100px">
+      <tr><td id="input">Input:</td></tr>
+      <tr><td id="answer">Answer:</td></tr>
+    </table>
+
+  	<table>
+      <tr>
+        <td id="number7"><button type="button" class="btn btn-info" onclick="cal('number','7')">7</button></td>
+        <td id="number8"><button type="button" class="btn btn-info" onclick="cal('number','8')">8</button></td>
+        <td id="number9"><button type="button" class="btn btn-info" onclick="cal('number','9')">9</button></td>
+        <td id="+"><button type="button" class="btn btn-info" onclick="cal('action','+')">+</button></td>
+      </tr>
+      <tr>
+        <td id="number4"><button type="button" class="btn btn-info" onclick="cal('number','4')">4</button></td>
+        <td id="number5"><button type="button" class="btn btn-info" onclick="cal('number','5')">5</button></td>
+        <td id="number6"><button type="button" class="btn btn-info" onclick="cal('number','6')">6</button></td>
+        <td id="number-"><button type="button" class="btn btn-info" onclick="cal('action','-')">-</button></td>
+      </tr>
+      <tr>
+        <td id="number1"><button type="button" class="btn btn-info" onclick="cal('number','1')">1</button></td>
+        <td id="number2"><button type="button" class="btn btn-info" onclick="cal('number','2')">2</button></td>
+        <td id="number3"><button type="button" class="btn btn-info" onclick="cal('number','3')">3</button></td>
+        <td id="*"><button type="button" class="btn btn-info" onclick="cal('action','*')">*</button></td>
+      </tr>
+      <tr>
+        <td id="number0"><button type="button" class="btn btn-info" onclick="cal('number','0')">0</button></td>
+        <td id="point"><button type="button" class="btn btn-info" onclick="cal('number','.')">.</button></td>
+        <td id="clear"><button type="button" class="btn btn-info" onclick="clr()">C</button></td>
+        <td id="/"><button type="button" class="btn btn-info" onclick="cal('action','/')">/</button></td>
+      </tr>
+      <tr>
+        <td id="answer" colspan="4"><button type="button" class="btn btn-info equal" onclick="answer('=')">=</button></td>
+      </tr>
+  	</table>
+
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+  </body>
+</html>
