@@ -1,0 +1,2 @@
+[{"firstName":"John","lastName":"Admin","email":"johnemmanueljd@gmail.com","password":"bf38ba0e2f6cd2f1755348b9bfd49caf","salt":"a8b23da3","type":"USER","enabled":1},
+{"firstName":"Ying","lastName":"Zhou","email":"ying@gmail.com","password":"d9be64926d6a09e6783e0389fe39aea3","salt":"8d296412","type":null,"enabled":true}]

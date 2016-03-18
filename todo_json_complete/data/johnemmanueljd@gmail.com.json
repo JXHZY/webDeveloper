@@ -1,0 +1,9 @@
+{
+	"nextId": 5,
+	"todos": [
+		{"id":1,"desc":"I want to do something","date":"03-11-2016","status":"Not Started"},
+		{"id":2,"desc":"I want to do something more","date":"03-11-2016","status":"Started"},
+		{"id":3,"desc":"Third record","date":"03-11-2016","status":"Started"},
+		{"id":4,"desc":"Third record","date":"03-11-2016","status":"Started"}
+	]
+}
