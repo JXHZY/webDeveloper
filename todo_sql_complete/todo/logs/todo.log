@@ -1,0 +1,6098 @@
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+mysql_data_access.php | trying to save user object
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+auth.php | user account not found
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: johnemmanueljd@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => johnemmanueljd@gmail.com
+    [email] => johnemmanueljd@gmail.com
+    [1] => John
+    [first_name] => John
+    [2] => E
+    [last_name] => E
+    [3] => bf38ba0e2f6cd2f1755348b9bfd49caf
+    [password] => bf38ba0e2f6cd2f1755348b9bfd49caf
+    [4] => a8b23da3
+    [salt] => a8b23da3
+    [5] => USER
+    [type] => USER
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => John
+    [user.LAST_NAME] => E
+    [user.EMAIL] => johnemmanueljd@gmail.com
+    [user.PASSWORD] => bf38ba0e2f6cd2f1755348b9bfd49caf
+    [user.SALT] => a8b23da3
+    [user.TYPE] => USER
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: johnemmanueljd@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 1
+            [todo.DESCRIPTION] => Todo 1
+            [todo.DATE] => 03-15-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+auth.php | invalid request
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+mysql_data_access.php | trying to save user object
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+mysql_data_access.php | trying to save user object
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+auth.php | user account not found
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+auth.php | user account not found
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+mysql_data_access.php | trying to save user object
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+auth.php | user account not found
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+auth.php | user account not found
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+mysql_data_access.php | trying to save user object
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+auth.php | user account not found
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+mysql_data_access.php | trying to save user object
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+)
+
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+)
+
+todo.php | Add action
+todo.php | description: 
+todo.php | scheduled date: 2016-03-24
+todo.php | Validation errors found
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+)
+
+todo.php | Add action
+todo.php | description: qwqweqweqwe
+todo.php | scheduled date: 2016-03-24
+todo.php | Valid todo. Saving.
+mysql_data_access.php | trying to save todo
+mysql_data_access.php | insert stmt: INSERT INTO todo (description, scheduled_date, status, owner) VALUES('qwqweqweqwe','2016-03-24','Not Started','ying@gmail.com')
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | generated todo id: 2
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 2
+            [todo.DESCRIPTION] => qwqweqweqwe
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+todo.php | Add action
+todo.php | description: qewqeqwe
+todo.php | scheduled date: 2016-03-25
+todo.php | Valid todo. Saving.
+mysql_data_access.php | trying to save todo
+mysql_data_access.php | insert stmt: INSERT INTO todo (description, scheduled_date, status, owner) VALUES('qewqeqwe','2016-03-25','Not Started','ying@gmail.com')
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | generated todo id: 3
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 2
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 2
+            [todo.DESCRIPTION] => qwqweqweqwe
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 3
+            [todo.DESCRIPTION] => qewqeqwe
+            [todo.DATE] => 03-25-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+todo.php | Trying to delete a todo
+todo.php | todo id: 3
+mysql_data_access.php | trying to delete todo with id: 3
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 2
+            [todo.DESCRIPTION] => qwqweqweqwe
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 2
+            [todo.DESCRIPTION] => qwqweqweqwe
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 2
+            [todo.DESCRIPTION] => qwqweqweqwe
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 2
+            [todo.DESCRIPTION] => qwqweqweqwe
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 2
+            [todo.DESCRIPTION] => qwqweqweqwe
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+mysql_data_access.php | trying to retrieve user object: 1234@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+mysql_data_access.php | trying to save user object
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 2
+            [todo.DESCRIPTION] => qwqweqweqwe
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+auth.php | invalid request
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 2
+            [todo.DESCRIPTION] => qwqweqweqwe
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+todo.php | Add action
+todo.php | description: just for test
+todo.php | scheduled date: 2016-03-24
+todo.php | Valid todo. Saving.
+mysql_data_access.php | trying to save todo
+mysql_data_access.php | insert stmt: INSERT INTO todo (description, scheduled_date, status, owner) VALUES('just for test','2016-03-24','Not Started','ying@gmail.com')
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | generated todo id: 4
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 2
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 2
+            [todo.DESCRIPTION] => qwqweqweqwe
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+todo.php | Trying to delete a todo
+todo.php | todo id: 2
+mysql_data_access.php | trying to delete todo with id: 2
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+todo.php | Add action
+todo.php | description: Just for the test, first one
+todo.php | scheduled date: 2016-03-24
+todo.php | Valid todo. Saving.
+mysql_data_access.php | trying to save todo
+mysql_data_access.php | insert stmt: INSERT INTO todo (description, scheduled_date, status, owner) VALUES('Just for the test, first one','2016-03-24','Not Started','ying@gmail.com')
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | generated todo id: 5
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 2
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+todo.php | Add action
+todo.php | description: Just for the test, second one
+todo.php | scheduled date: 2016-03-31
+todo.php | Valid todo. Saving.
+mysql_data_access.php | trying to save todo
+mysql_data_access.php | insert stmt: INSERT INTO todo (description, scheduled_date, status, owner) VALUES('Just for the test, second one','2016-03-31','Not Started','ying@gmail.com')
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | generated todo id: 6
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 3
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+todo.php | Add action
+todo.php | description: Just for the test, 3th one
+todo.php | scheduled date: 2016-03-24
+todo.php | Valid todo. Saving.
+mysql_data_access.php | trying to save todo
+mysql_data_access.php | insert stmt: INSERT INTO todo (description, scheduled_date, status, owner) VALUES('Just for the test, 3th one','2016-03-24','Not Started','ying@gmail.com')
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | generated todo id: 7
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 4
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+todo.php | Add action
+todo.php | description: Just for the test, 3th one, test for update
+todo.php | scheduled date: 2016-03-29
+todo.php | Valid todo. Saving.
+mysql_data_access.php | trying to save todo
+mysql_data_access.php | insert stmt: INSERT INTO todo (description, scheduled_date, status, owner) VALUES('Just for the test, 3th one, test for update','2016-03-29','Not Started','ying@gmail.com')
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | generated todo id: 8
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve user object: ff@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+mysql_data_access.php | trying to save user object
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+todo.php | Add action
+todo.php | description: qwqw
+todo.php | scheduled date: 2016-03-24
+todo.php | Valid todo. Saving.
+mysql_data_access.php | trying to save todo
+mysql_data_access.php | insert stmt: INSERT INTO todo (description, scheduled_date, status, owner) VALUES('qwqw','2016-03-24','Not Started','ying@gmail.com')
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | generated todo id: 9
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 6
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [5] => Array
+        (
+            [todo.ID] => 9
+            [todo.DESCRIPTION] => qwqw
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+todo.php | Trying to delete a todo
+todo.php | todo id: 9
+mysql_data_access.php | trying to delete todo with id: 9
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+todo.php | Add action
+todo.php | description: 1111
+todo.php | scheduled date: 2016-03-24
+todo.php | Valid todo. Saving.
+mysql_data_access.php | trying to save todo
+mysql_data_access.php | insert stmt: INSERT INTO todo (description, scheduled_date, status, owner) VALUES('1111','2016-03-24','Not Started','ying@gmail.com')
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | generated todo id: 10
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 6
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [5] => Array
+        (
+            [todo.ID] => 10
+            [todo.DESCRIPTION] => 1111
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 6
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [5] => Array
+        (
+            [todo.ID] => 10
+            [todo.DESCRIPTION] => 1111
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 6
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [5] => Array
+        (
+            [todo.ID] => 10
+            [todo.DESCRIPTION] => 1111
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+todo.php | Trying to delete a todo
+todo.php | todo id: 10
+mysql_data_access.php | trying to delete todo with id: 10
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: 
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: 
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: 
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: 
+mysql_data_access.php | todo: 
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: 
+mysql_data_access.php | todo: 
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: 
+mysql_data_access.php | todo: 
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: 
+mysql_data_access.php | todo: 
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: 
+mysql_data_access.php | todo: 
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: 
+mysql_data_access.php | todo: 
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: 
+mysql_data_access.php | todo: 
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: 
+mysql_data_access.php | todo: 
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: 
+mysql_data_access.php | todo: 
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: 
+mysql_data_access.php | todo: 
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: 
+mysql_data_access.php | todo: 
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => 8
+    [id] => 8
+    [1] => Just for the test, 3th one, test for update
+    [description] => Just for the test, 3th one, test for update
+    [2] => 2016-03-29
+    [scheduled_date] => 2016-03-29
+    [3] => Not Started
+    [status] => Not Started
+    [4] => ying@gmail.com
+    [owner] => ying@gmail.com
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+mysql_data_access.php | todo: Array
+(
+    [todo.ID] => 8
+    [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+    [todo.DATE] => 03-29-2016
+    [todo.STATUS] => Not Started
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => 8
+    [id] => 8
+    [1] => Just for the test, 3th one, test for update
+    [description] => Just for the test, 3th one, test for update
+    [2] => 2016-03-29
+    [scheduled_date] => 2016-03-29
+    [3] => Not Started
+    [status] => Not Started
+    [4] => ying@gmail.com
+    [owner] => ying@gmail.com
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+mysql_data_access.php | todo: Array
+(
+    [todo.ID] => 8
+    [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+    [todo.DATE] => 03-29-2016
+    [todo.STATUS] => Not Started
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => 8
+    [id] => 8
+    [1] => Just for the test, 3th one, test for update
+    [description] => Just for the test, 3th one, test for update
+    [2] => 2016-03-29
+    [scheduled_date] => 2016-03-29
+    [3] => Not Started
+    [status] => Not Started
+    [4] => ying@gmail.com
+    [owner] => ying@gmail.com
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+mysql_data_access.php | todo: Array
+(
+    [todo.ID] => 8
+    [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+    [todo.DATE] => 03-29-2016
+    [todo.STATUS] => Not Started
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => 8
+    [id] => 8
+    [1] => Just for the test, 3th one, test for update
+    [description] => Just for the test, 3th one, test for update
+    [2] => 2016-03-29
+    [scheduled_date] => 2016-03-29
+    [3] => Not Started
+    [status] => Not Started
+    [4] => ying@gmail.com
+    [owner] => ying@gmail.com
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+mysql_data_access.php | todo: Array
+(
+    [todo.ID] => 8
+    [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+    [todo.DATE] => 03-29-2016
+    [todo.STATUS] => Not Started
+)
+
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => 8
+    [id] => 8
+    [1] => Just for the test, 3th one, test for update
+    [description] => Just for the test, 3th one, test for update
+    [2] => 2016-03-29
+    [scheduled_date] => 2016-03-29
+    [3] => Not Started
+    [status] => Not Started
+    [4] => ying@gmail.com
+    [owner] => ying@gmail.com
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+mysql_data_access.php | todo: Array
+(
+    [todo.ID] => 8
+    [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+    [todo.DATE] => 03-29-2016
+    [todo.STATUS] => Not Started
+)
+
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => 8
+    [id] => 8
+    [1] => Just for the test, 3th one, test for update
+    [description] => Just for the test, 3th one, test for update
+    [2] => 2016-03-29
+    [scheduled_date] => 2016-03-29
+    [3] => Not Started
+    [status] => Not Started
+    [4] => ying@gmail.com
+    [owner] => ying@gmail.com
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+mysql_data_access.php | todo: Array
+(
+    [todo.ID] => 8
+    [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+    [todo.DATE] => 03-29-2016
+    [todo.STATUS] => Not Started
+)
+
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => 8
+    [id] => 8
+    [1] => Just for the test, 3th one, test for update
+    [description] => Just for the test, 3th one, test for update
+    [2] => 2016-03-29
+    [scheduled_date] => 2016-03-29
+    [3] => Not Started
+    [status] => Not Started
+    [4] => ying@gmail.com
+    [owner] => ying@gmail.com
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+mysql_data_access.php | todo: Array
+(
+    [todo.ID] => 8
+    [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+    [todo.DATE] => 03-29-2016
+    [todo.STATUS] => Not Started
+)
+
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 8
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-29-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+todo.php | Trying to delete a todo
+todo.php | todo id: 8
+mysql_data_access.php | trying to delete todo with id: 8
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 4
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+todo.php | Add action
+todo.php | description: Just for the test, 3th one, test for update
+todo.php | scheduled date: 2016-03-24
+todo.php | Valid todo. Saving.
+mysql_data_access.php | trying to save todo
+mysql_data_access.php | insert stmt: INSERT INTO todo (description, scheduled_date, status, owner) VALUES('Just for the test, 3th one, test for update','2016-03-24','Not Started','ying@gmail.com')
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | generated todo id: 9
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 9
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 9
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => 9
+    [id] => 9
+    [1] => Just for the test, 3th one, test for update
+    [description] => Just for the test, 3th one, test for update
+    [2] => 2016-03-24
+    [scheduled_date] => 2016-03-24
+    [3] => Not Started
+    [status] => Not Started
+    [4] => ying@gmail.com
+    [owner] => ying@gmail.com
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+mysql_data_access.php | todo: Array
+(
+    [todo.ID] => 9
+    [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+    [todo.DATE] => 03-24-2016
+    [todo.STATUS] => Not Started
+)
+
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 9
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 9
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => 9
+    [id] => 9
+    [1] => Just for the test, 3th one, test for update
+    [description] => Just for the test, 3th one, test for update
+    [2] => 2016-03-24
+    [scheduled_date] => 2016-03-24
+    [3] => Not Started
+    [status] => Not Started
+    [4] => ying@gmail.com
+    [owner] => ying@gmail.com
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+mysql_data_access.php | todo: Array
+(
+    [todo.ID] => 9
+    [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+    [todo.DATE] => 03-24-2016
+    [todo.STATUS] => Not Started
+)
+
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 9
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 9
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => 9
+    [id] => 9
+    [1] => Just for the test, 3th one, test for update
+    [description] => Just for the test, 3th one, test for update
+    [2] => 2016-03-24
+    [scheduled_date] => 2016-03-24
+    [3] => Not Started
+    [status] => Not Started
+    [4] => ying@gmail.com
+    [owner] => ying@gmail.com
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+mysql_data_access.php | todo: Array
+(
+    [todo.ID] => 9
+    [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+    [todo.DATE] => 03-24-2016
+    [todo.STATUS] => Not Started
+)
+
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 9
+            [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => 
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 9
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => 9
+    [id] => 9
+    [1] => Just for the test, 3th one, test for update
+    [description] => Just for the test, 3th one, test for update
+    [2] => 2016-03-24
+    [scheduled_date] => 2016-03-24
+    [3] => 
+    [status] => 
+    [4] => ying@gmail.com
+    [owner] => ying@gmail.com
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+mysql_data_access.php | todo: Array
+(
+    [todo.ID] => 9
+    [todo.DESCRIPTION] => Just for the test, 3th one, test for update
+    [todo.DATE] => 03-24-2016
+    [todo.STATUS] => 
+)
+
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 9
+            [todo.DESCRIPTION] => Just for t
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => 
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 9
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => 9
+    [id] => 9
+    [1] => Just for t
+    [description] => Just for t
+    [2] => 2016-03-24
+    [scheduled_date] => 2016-03-24
+    [3] => 
+    [status] => 
+    [4] => ying@gmail.com
+    [owner] => ying@gmail.com
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+mysql_data_access.php | todo: Array
+(
+    [todo.ID] => 9
+    [todo.DESCRIPTION] => Just for t
+    [todo.DATE] => 03-24-2016
+    [todo.STATUS] => 
+)
+
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => ying@gmail.com
+    [email] => ying@gmail.com
+    [1] => Ying
+    [first_name] => Ying
+    [2] => Zhou
+    [last_name] => Zhou
+    [3] => 46f911470b08366357f333edf8a9461c
+    [password] => 46f911470b08366357f333edf8a9461c
+    [4] => 5fd2ae4a
+    [salt] => 5fd2ae4a
+    [5] => 
+    [type] => 
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => Ying
+    [user.LAST_NAME] => Zhou
+    [user.EMAIL] => ying@gmail.com
+    [user.PASSWORD] => 46f911470b08366357f333edf8a9461c
+    [user.SALT] => 5fd2ae4a
+    [user.TYPE] => 
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 9
+            [todo.DESCRIPTION] => Just for t
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Midway
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 9
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => 9
+    [id] => 9
+    [1] => Just for t
+    [description] => Just for t
+    [2] => 2016-03-24
+    [scheduled_date] => 2016-03-24
+    [3] => Midway
+    [status] => Midway
+    [4] => ying@gmail.com
+    [owner] => ying@gmail.com
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+mysql_data_access.php | todo: Array
+(
+    [todo.ID] => 9
+    [todo.DESCRIPTION] => Just for t
+    [todo.DATE] => 03-24-2016
+    [todo.STATUS] => Midway
+)
+
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 9
+            [todo.DESCRIPTION] => edit 
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Completed
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 9
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => 9
+    [id] => 9
+    [1] => edit 
+    [description] => edit 
+    [2] => 2016-03-24
+    [scheduled_date] => 2016-03-24
+    [3] => Completed
+    [status] => Completed
+    [4] => ying@gmail.com
+    [owner] => ying@gmail.com
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+mysql_data_access.php | todo: Array
+(
+    [todo.ID] => 9
+    [todo.DESCRIPTION] => edit 
+    [todo.DATE] => 03-24-2016
+    [todo.STATUS] => Completed
+)
+
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | trying to retrieve todos for user: ying@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 5
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 4
+            [todo.DESCRIPTION] => just for test
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 5
+            [todo.DESCRIPTION] => Just for the test, first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 6
+            [todo.DESCRIPTION] => Just for the test, second one
+            [todo.DATE] => 03-31-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [3] => Array
+        (
+            [todo.ID] => 7
+            [todo.DESCRIPTION] => Just for the test, 3th one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [4] => Array
+        (
+            [todo.ID] => 9
+            [todo.DESCRIPTION] => edit 
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Midway
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve user object: test@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+mysql_data_access.php | trying to save user object
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | trying to retrieve user object: jiang@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | record: 
+mysql_data_access.php | user: 
+mysql_data_access.php | trying to save user object
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+auth.php | credentials validation successful
+auth.php | trying to retrieve user record
+mysql_data_access.php | trying to retrieve user object: jiang@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 7
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => jiang@gmail.com
+    [email] => jiang@gmail.com
+    [1] => jiang
+    [first_name] => jiang
+    [2] => jiang
+    [last_name] => jiang
+    [3] => 36f57b372dadd50a8e8c4b58bd171524
+    [password] => 36f57b372dadd50a8e8c4b58bd171524
+    [4] => dbef4acc
+    [salt] => dbef4acc
+    [5] => USER
+    [type] => USER
+    [6] => 1
+    [enabled] => 1
+)
+
+mysql_data_access.php | trying to convert stdclass to map
+mysql_data_access.php | user: Array
+(
+    [user.FIRST_NAME] => jiang
+    [user.LAST_NAME] => jiang
+    [user.EMAIL] => jiang@gmail.com
+    [user.PASSWORD] => 36f57b372dadd50a8e8c4b58bd171524
+    [user.SALT] => dbef4acc
+    [user.TYPE] => USER
+    [user.ENABLED] => 1
+)
+
+auth.php | retrieved user record
+auth.php | Password match: 1
+auth.php | Account enabled: 1
+auth.php | auth valid
+mysql_data_access.php | trying to retrieve todos for user: jiang@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 0
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+)
+
+todo.php | Add action
+todo.php | description: first one
+todo.php | scheduled date: 2016-03-24
+todo.php | Valid todo. Saving.
+mysql_data_access.php | trying to save todo
+mysql_data_access.php | insert stmt: INSERT INTO todo (description, scheduled_date, status, owner) VALUES('first one','2016-03-24','Not Started','jiang@gmail.com')
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | generated todo id: 10
+mysql_data_access.php | trying to retrieve todos for user: jiang@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 10
+            [todo.DESCRIPTION] => first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+todo.php | Add action
+todo.php | description: second one
+todo.php | scheduled date: 2016-03-25
+todo.php | Valid todo. Saving.
+mysql_data_access.php | trying to save todo
+mysql_data_access.php | insert stmt: INSERT INTO todo (description, scheduled_date, status, owner) VALUES('second one','2016-03-25','Not Started','jiang@gmail.com')
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | generated todo id: 11
+mysql_data_access.php | trying to retrieve todos for user: jiang@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 2
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 10
+            [todo.DESCRIPTION] => first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 11
+            [todo.DESCRIPTION] => second one
+            [todo.DATE] => 03-25-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+todo.php | Add action
+todo.php | description: 3th one
+todo.php | scheduled date: 2016-03-30
+todo.php | Valid todo. Saving.
+mysql_data_access.php | trying to save todo
+mysql_data_access.php | insert stmt: INSERT INTO todo (description, scheduled_date, status, owner) VALUES('3th one','2016-03-30','Not Started','jiang@gmail.com')
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | generated todo id: 12
+mysql_data_access.php | trying to retrieve todos for user: jiang@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 3
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 10
+            [todo.DESCRIPTION] => first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 11
+            [todo.DESCRIPTION] => second one
+            [todo.DATE] => 03-25-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 12
+            [todo.DESCRIPTION] => 3th one
+            [todo.DATE] => 03-30-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 12
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => 12
+    [id] => 12
+    [1] => 3th one
+    [description] => 3th one
+    [2] => 2016-03-30
+    [scheduled_date] => 2016-03-30
+    [3] => Not Started
+    [status] => Not Started
+    [4] => jiang@gmail.com
+    [owner] => jiang@gmail.com
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+mysql_data_access.php | todo: Array
+(
+    [todo.ID] => 12
+    [todo.DESCRIPTION] => 3th one
+    [todo.DATE] => 03-30-2016
+    [todo.STATUS] => Not Started
+)
+
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | trying to retrieve todos for user: jiang@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 3
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 10
+            [todo.DESCRIPTION] => first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 11
+            [todo.DESCRIPTION] => second one
+            [todo.DATE] => 03-25-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [2] => Array
+        (
+            [todo.ID] => 12
+            [todo.DESCRIPTION] => 3th one
+            [todo.DATE] => 03-30-2016
+            [todo.STATUS] => Midway
+        )
+
+)
+
+todo.php | Trying to delete a todo
+todo.php | todo id: 11
+mysql_data_access.php | trying to delete todo with id: 11
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | trying to retrieve todos for user: jiang@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 2
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 10
+            [todo.DESCRIPTION] => first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+    [1] => Array
+        (
+            [todo.ID] => 12
+            [todo.DESCRIPTION] => 3th one
+            [todo.DATE] => 03-30-2016
+            [todo.STATUS] => Midway
+        )
+
+)
+
+todo.php | Trying to delete a todo
+todo.php | todo id: 12
+mysql_data_access.php | trying to delete todo with id: 12
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | trying to retrieve todos for user: jiang@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 10
+            [todo.DESCRIPTION] => first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Not Started
+        )
+
+)
+
+mysql_data_access.php | trying to retrieve todo object: 10
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | record: Array
+(
+    [0] => 10
+    [id] => 10
+    [1] => first one
+    [description] => first one
+    [2] => 2016-03-24
+    [scheduled_date] => 2016-03-24
+    [3] => Not Started
+    [status] => Not Started
+    [4] => jiang@gmail.com
+    [owner] => jiang@gmail.com
+)
+
+mysql_data_access.php | trying to convert mysql obj to domain obj
+mysql_data_access.php | todo: Array
+(
+    [todo.ID] => 10
+    [todo.DESCRIPTION] => first one
+    [todo.DATE] => 03-24-2016
+    [todo.STATUS] => Not Started
+)
+
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | trying to retrieve todos for user: jiang@gmail.com
+mysql_data_access.php | trying to retrieve mysql connection using: localhost, root, todo, 3306
+mysql_data_access.php | resultset: mysqli_result Object
+(
+    [current_field] => 0
+    [field_count] => 5
+    [lengths] => 
+    [num_rows] => 1
+    [type] => 0
+)
+
+mysql_data_access.php | resultset: Array
+(
+    [0] => Array
+        (
+            [todo.ID] => 10
+            [todo.DESCRIPTION] => first one
+            [todo.DATE] => 03-24-2016
+            [todo.STATUS] => Midway
+        )
+
+)
+
+auth.php | invalid request
